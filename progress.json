@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:56:44.127Z",
+  "generated_at": "2026-10-29T03:56:46.082Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -52,6 +52,91 @@
       "last_pushed_at": "2026-10-21T01:11:50.929Z",
       "language": "python",
       "lines": 104
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-24T04:55:27.985Z",
+      "last_pushed_at": "2026-10-24T04:55:27.985Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-10-24T04:57:05.269Z",
+      "last_pushed_at": "2026-10-24T04:57:05.269Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-24T04:59:51.594Z",
+      "last_pushed_at": "2026-10-24T04:59:51.594Z",
+      "language": "python",
+      "lines": 13
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-24T05:26:34.380Z",
+      "last_pushed_at": "2026-10-24T05:26:34.380Z"
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-24T05:29:10.879Z",
+      "last_pushed_at": "2026-10-24T05:29:10.879Z",
+      "language": "python",
+      "lines": 17
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-24T05:30:01.706Z",
+      "last_pushed_at": "2026-10-24T05:30:01.706Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-10-24T05:39:53.236Z",
+      "last_pushed_at": "2026-10-24T05:39:53.236Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

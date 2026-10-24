@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 2 problems · 2 labs · 0 math
+**11** solved · 6 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,8 +12,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-24 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-24 | [solution](problems/0083-dot-product-calculator) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-10-17 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-17 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-24 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-24 | [solution](problems/0002-transpose-of-a-matrix) |
 
 ## Labs
 
@@ -21,6 +25,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-21 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-10-18 | [solution](labs/0023-train-a-binary-classifier) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-24 | [solution](math/0001-derivatives-and-gradients) |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-24 | [solution](math/0009-matrix-basics) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-24 | [solution](math/0007-vector-operations) |
 
 ---
 
