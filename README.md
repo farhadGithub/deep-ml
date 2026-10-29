@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 11 problems · 2 labs · 3 math
+**17** solved · 12 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-24 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-28 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-28 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-29 | [solution](problems/0017-k-means-clustering) |
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-10-28 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-28 | [solution](problems/0025-single-neuron-with-backpropagation) |
 
