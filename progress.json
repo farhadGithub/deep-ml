@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:56:49.582Z",
+  "generated_at": "2026-10-29T03:56:51.167Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -62,7 +62,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-24T04:55:27.985Z",
-      "last_pushed_at": "2026-10-24T04:55:27.985Z"
+      "last_pushed_at": "2026-10-29T03:56:51.166Z"
     },
     "problem:116": {
       "kind": "problem",
@@ -99,7 +99,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-24T05:26:34.380Z",
-      "last_pushed_at": "2026-10-24T05:26:34.380Z"
+      "last_pushed_at": "2026-10-29T03:56:51.166Z"
     },
     "problem:2": {
       "kind": "problem",
@@ -123,7 +123,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-24T05:30:01.706Z",
-      "last_pushed_at": "2026-10-24T05:30:01.706Z"
+      "last_pushed_at": "2026-10-29T03:56:51.166Z"
     },
     "problem:1058": {
       "kind": "problem",
