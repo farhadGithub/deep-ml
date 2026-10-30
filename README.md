@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 12 problems · 2 labs · 3 math
+**19** solved · 14 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,8 +22,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-28 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-28 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-29 | [solution](problems/0017-k-means-clustering) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-30 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-10-28 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-28 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Vectorized K-Means with Broadcasting](https://www.deep-ml.com/problems/1465) | medium | 2026-10-30 | [solution](problems/1465-vectorized-k-means-with-broadcasting) |
 
 ## Labs
 

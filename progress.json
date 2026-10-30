@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:56:51.167Z",
+  "generated_at": "2026-10-30T17:54:59.070Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -215,6 +215,32 @@
       "last_pushed_at": "2026-10-29T03:40:39.392Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:1465": {
+      "kind": "problem",
+      "id": "1465",
+      "title": "Vectorized K-Means with Broadcasting",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1465",
+      "path": "problems/1465-vectorized-k-means-with-broadcasting",
+      "first_solved_at": "2026-10-30T01:18:30.316Z",
+      "last_pushed_at": "2026-10-30T01:18:30.316Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-10-30T17:53:18.293Z",
+      "last_pushed_at": "2026-10-30T17:53:18.293Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
