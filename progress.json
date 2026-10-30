@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:54:59.070Z",
+  "generated_at": "2026-10-30T22:46:49.031Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -239,6 +239,32 @@
       "path": "problems/0019-principal-component-analysis-pca-implementation",
       "first_solved_at": "2026-10-30T17:53:18.293Z",
       "last_pushed_at": "2026-10-30T17:53:18.293Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-10-30T20:27:36.222Z",
+      "last_pushed_at": "2026-10-30T20:27:36.222Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-10-30T22:33:25.071Z",
+      "last_pushed_at": "2026-10-30T22:33:25.071Z",
       "language": "python",
       "lines": 27
     }
