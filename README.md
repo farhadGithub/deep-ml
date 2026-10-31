@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 18 problems · 2 labs · 3 math
+**24** solved · 19 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-10-28 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-28 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Vectorized K-Means with Broadcasting](https://www.deep-ml.com/problems/1465) | medium | 2026-10-30 | [solution](problems/1465-vectorized-k-means-with-broadcasting) |
+| [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-10-31 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
 
 ## Labs
 
