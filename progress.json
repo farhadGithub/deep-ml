@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:30:51.474Z",
+  "generated_at": "2026-11-01T19:30:53.636Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -319,6 +319,32 @@
       "last_pushed_at": "2026-10-31T21:47:29.673Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2026-11-01T08:36:25.548Z",
+      "last_pushed_at": "2026-11-01T08:36:25.548Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:1128": {
+      "kind": "problem",
+      "id": "1128",
+      "title": "Handle Missing Data in pandas (dropna/fillna)",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1128",
+      "path": "problems/1128-handle-missing-data-in-pandas-dropna-fillna",
+      "first_solved_at": "2026-11-01T09:22:56.124Z",
+      "last_pushed_at": "2026-11-01T09:22:56.124Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
