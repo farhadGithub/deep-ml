@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:40:16.259Z",
+  "generated_at": "2026-11-02T20:32:06.095Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -384,6 +384,45 @@
       "last_pushed_at": "2026-11-02T14:28:36.264Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:754": {
+      "kind": "problem",
+      "id": "754",
+      "title": "Special Token Quick Instruction Mechanism",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/754",
+      "path": "problems/0754-special-token-quick-instruction-mechanism",
+      "first_solved_at": "2026-11-02T16:59:03.790Z",
+      "last_pushed_at": "2026-11-02T16:59:03.790Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:550": {
+      "kind": "problem",
+      "id": "550",
+      "title": "Gradient Monte Carlo Algorithm",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/550",
+      "path": "problems/0550-gradient-monte-carlo-algorithm",
+      "first_solved_at": "2026-11-02T20:12:59.484Z",
+      "last_pushed_at": "2026-11-02T20:12:59.484Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:1136": {
+      "kind": "problem",
+      "id": "1136",
+      "title": "Add a Per-Group Average Column with GroupBy Transform",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1136",
+      "path": "problems/1136-add-a-per-group-average-column-with-groupby-transform",
+      "first_solved_at": "2026-11-02T20:30:42.380Z",
+      "last_pushed_at": "2026-11-02T20:30:42.380Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
