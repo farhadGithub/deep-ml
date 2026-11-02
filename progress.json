@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:40:13.674Z",
+  "generated_at": "2026-11-02T14:40:16.259Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -358,6 +358,32 @@
       "last_pushed_at": "2026-11-01T19:35:54.335Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-11-02T00:56:30.103Z",
+      "last_pushed_at": "2026-11-02T00:56:30.103Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:902": {
+      "kind": "problem",
+      "id": "902",
+      "title": "Implement BatchNorm2d from Scratch (training mode)",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/902",
+      "path": "problems/0902-implement-batchnorm2d-from-scratch-training-mode",
+      "first_solved_at": "2026-11-02T14:28:36.264Z",
+      "last_pushed_at": "2026-11-02T14:28:36.264Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
