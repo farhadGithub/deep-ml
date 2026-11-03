@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 28 problems · 2 labs · 3 math
+**34** solved · 29 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Monte Carlo Algorithm](https://www.deep-ml.com/problems/550) | medium | 2026-11-02 | [solution](problems/0550-gradient-monte-carlo-algorithm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-02 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-11-02 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
+| [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-11-03 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-11-01 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-28 | [solution](problems/0026-implementing-basic-autograd-operations) |
