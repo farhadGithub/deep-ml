@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 29 problems · 2 labs · 3 math
+**35** solved · 30 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-30 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-10-28 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-10-31 | [solution](problems/0991-sample-from-mlp-character-language-model) |
+| [Siamese Contrastive Loss and In-Batch Triplet Mining](https://www.deep-ml.com/problems/1793) | medium | 2026-11-04 | [solution](problems/1793-siamese-contrastive-loss-and-in-batch-triplet-mining) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-28 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Special Token Quick Instruction Mechanism](https://www.deep-ml.com/problems/754) | medium | 2026-11-02 | [solution](problems/0754-special-token-quick-instruction-mechanism) |
 | [Vectorized K-Means with Broadcasting](https://www.deep-ml.com/problems/1465) | medium | 2026-10-30 | [solution](problems/1465-vectorized-k-means-with-broadcasting) |

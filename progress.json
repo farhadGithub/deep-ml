@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:44:42.724Z",
+  "generated_at": "2026-11-07T00:44:44.963Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -436,6 +436,19 @@
       "last_pushed_at": "2026-11-03T14:18:23.299Z",
       "language": "python",
       "lines": 82
+    },
+    "problem:1793": {
+      "kind": "problem",
+      "id": "1793",
+      "title": "Siamese Contrastive Loss and In-Batch Triplet Mining",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1793",
+      "path": "problems/1793-siamese-contrastive-loss-and-in-batch-triplet-mining",
+      "first_solved_at": "2026-11-04T14:45:35.331Z",
+      "last_pushed_at": "2026-11-04T14:45:35.331Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
