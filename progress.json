@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:06:34.042Z",
+  "generated_at": "2026-11-14T05:06:35.530Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -501,6 +501,32 @@
       "last_pushed_at": "2026-11-11T08:50:10.383Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-11-14T04:58:25.364Z",
+      "last_pushed_at": "2026-11-14T04:58:25.364Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-11-14T05:06:02.479Z",
+      "last_pushed_at": "2026-11-14T05:06:02.479Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
